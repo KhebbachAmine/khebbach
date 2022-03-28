@@ -5,7 +5,7 @@ Hi there 👋, I'm Amine Khebbach! 😄
 ## 🙋‍♂️️ About me
 
 - 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! 
-- 👨‍💻 All of my public projects are available on [ My Github Repositories](https://github.com/AmineKhebbach?tab=repositories)
+- 👨‍💻 All of my public projects are available on [ My Github Repositories](https://github.com/khebbachAmine?tab=repositories)
 - 📫 How to reach me [Instagram](#)
 - 🌐 my portfolio [click here](#) 
 - ❤️ Coffee ☕️, Cycling 🚴‍♂️️, Hiking 🗻️, Camping 🏕️
@@ -27,7 +27,7 @@ Hi there 👋, I'm Amine Khebbach! 😄
 
 <p align="center">
     <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineKhebbach&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khebbachAmine&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -35,5 +35,5 @@ Hi there 👋, I'm Amine Khebbach! 😄
 
   <br/>
     <a href="">
-    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmineKhebbach&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khebbachAmine&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
