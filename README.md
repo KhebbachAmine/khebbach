@@ -2,9 +2,9 @@ Hi there 👋, I'm Amine Khebbach! 😄
 
 <h3>I'm a Full Stack Developer</h3>
 
-🙋‍♂️️ About me
-🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects!
-- 🔭 I’m currently Freelancer 
+## 🙋‍♂️️ About me
+
+- 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! 
 - 👨‍💻 All of my public projects are available on [ My Github Repositories](https://github.com/AmineKhebbach?tab=repositories)
 - 📫 How to reach me [Instagram](#)
 - 🌐 my portfolio [click here](#) 
